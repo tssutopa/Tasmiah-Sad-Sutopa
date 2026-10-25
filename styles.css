@@ -157,7 +157,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #7ca9ce; outline-offs
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background-image: url("assets/jacaranda-watercolor.png");
+  background-image: url("jacaranda-watercolor.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 46%;
